@@ -1,0 +1,8 @@
+.active {
+  color: hotpink;
+}
+
+app-nav {
+  display: block;
+  padding: 20px;
+}
